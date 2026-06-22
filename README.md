@@ -157,3 +157,5 @@ Dipak Gautam
 ## 📧 Contact
 
 For any queries or suggestions, feel free to reach out.
+
+An AI Agent is an intelligent software system that can perceive information, reason about tasks, make decisions, and take actions autonomously to achieve specific goals. It interacts with users through natural language, processes data from various sources, and performs tasks such as answering questions, automating workflows, retrieving information, and providing personalized assistance. By combining artificial intelligence techniques such as machine learning, natural language processing, and reasoning, AI agents can improve efficiency, enhance user experiences, and support decision-making across different domains.
